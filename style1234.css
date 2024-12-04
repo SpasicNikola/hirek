@@ -1,0 +1,25 @@
+.cim{
+    text-align: center;
+    background-color: aqua;
+}
+body{
+    background-color: aqua;
+}
+p5{
+    font-size: large;
+    font-weight: bold;
+}
+p4{
+    font-size: medium;
+    font-weight: bold;
+}
+.cim2{
+    text-align: left;
+    background-color:red;
+    width: 800px;
+    padding: 10px;
+    margin:0 auto;
+}
+form{
+    border-bottom: 4px solid black;
+}
